@@ -1,1 +1,3 @@
-# Potato_plant_disease_detection-
+*Potato plant disease detection*
+
+Agriculture is the largest source of livelihoods in India. More than 70% of its rural households primarily depend on agriculture. So, identification of the plant disease is important in order to prevent from major losses. It is a very tedious task to identify plant diseases manually as it requires tremendous amount of effort, many labour and majorly a lot of time. So, I made a model using CNN with the help of tensorflow and keras.Model will be trained on certain amount of data and then will be tested.This proposed solution for plant disease detection is less expensive and requires less time for identification of any plant disease, where as traditionally to identify any disease of a plant, it has to go through lot of experimental process. The data set Plant Village is being used in the project which is downloaded in Kaggle
